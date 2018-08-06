@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # Created by Bruce yuan on 18-1-22.
 import requests
 import os
@@ -13,7 +13,7 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_path = 'D:\Github\Leetcode'
+    local_path = 'F:\Github\Leetcode'
     # solution of leetcode
     github_leetcode_url = 'https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/'
     # solution of pat,　暂时还没写
