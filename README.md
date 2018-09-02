@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-08-06 20:06:45, I have solved **1** / **688** problems while **0** are still locked.
+Until 2018-09-02 22:08:41, I have solved **2** / **704** problems while **0** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 1
+3. C++: 2
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -13,8 +13,8 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | JavaScript | Python | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/001.%20Two%20Su/twoSum.cpp)|To Do|
-|002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
+|001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/001.%20Two%20Su\twoSum.cpp)|To Do|
+|002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/002.%20Add%20Two%20Number\002. Add Two Number.cpp)|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -701,3 +701,19 @@ Note: :lock: means you need to buy a book from LeetCode
 |519|[Random Flip Matrix](https://leetcode-cn.com/problems/random-flip-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/description/) |Medium|To Do|To Do|To Do|To Do|
 |478|[Generate Random Point in a Circle](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/description/) |Medium|To Do|To Do|To Do|To Do|
+|880|[Decoded String at Index](https://leetcode-cn.com/problems/decoded-string-at-index/description/) |Medium|To Do|To Do|To Do|To Do|
+|881|[Boats to Save People](https://leetcode-cn.com/problems/boats-to-save-people/description/) |Medium|To Do|To Do|To Do|To Do|
+|882|[Reachable Nodes In Subdivided Graph](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/description/) |Hard|To Do|To Do|To Do|To Do|
+|883|[Projection Area of 3D Shapes](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/description/) |Easy|To Do|To Do|To Do|To Do|
+|884|[Uncommon Words from Two Sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/description/) |Easy|To Do|To Do|To Do|To Do|
+|885|[Spiral Matrix III](https://leetcode-cn.com/problems/spiral-matrix-iii/description/) |Medium|To Do|To Do|To Do|To Do|
+|886|[Possible Bipartition](https://leetcode-cn.com/problems/possible-bipartition/description/) |Medium|To Do|To Do|To Do|To Do|
+|887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/description/) |Hard|To Do|To Do|To Do|To Do|
+|888|[Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/description/) |Easy|To Do|To Do|To Do|To Do|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|To Do|
+|890|[Find and Replace Pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/description/) |Medium|To Do|To Do|To Do|To Do|
+|891|[Sum of Subsequence Widths](https://leetcode-cn.com/problems/sum-of-subsequence-widths/description/) |Hard|To Do|To Do|To Do|To Do|
+|892|[Surface Area of 3D Shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/description/) |Easy|To Do|To Do|To Do|To Do|
+|893|[Groups of Special-Equivalent Strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|To Do|To Do|
+|894|[All Possible Full Binary Trees](https://leetcode-cn.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|To Do|To Do|
+|895|[Maximum Frequency Stack](https://leetcode-cn.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|To Do|To Do|
