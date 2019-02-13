@@ -22,7 +22,7 @@ public:
 
 		while (l1!=NULL||l2!=NULL)
 		{
-			int sum = carry + (l1 ? l1->val : 0) + (l2 ? l2->val : 0);
+			int sum = carry + (l1!=NULL ? l1->val : 0) + (l2!=NULL ? l2->val : 0);
 
 			carry = sum / 10;
 			sum = sum % 10;
