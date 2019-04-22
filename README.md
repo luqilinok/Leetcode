@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-22 08:31:02, I have solved **7** / **837** problems while **0** are still locked.
+Until 2019-04-22 10:00:49, I have solved **10** / **837** problems while **0** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 7
+3. C++: 10
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -78,7 +78,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |063|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |064|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |065|[Valid Number](https://leetcode-cn.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|To Do|
-|066|[Plus One](https://leetcode-cn.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|To Do|
+|066|[Plus One](https://leetcode-cn.com/problems/plus-one/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/066.%20Plus On\66.Plus One.cpp)|To Do|
 |067|[Add Binary](https://leetcode-cn.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|To Do|
 |068|[Text Justification](https://leetcode-cn.com/problems/text-justification/description/) |Hard|To Do|To Do|To Do|To Do|
 |069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -148,7 +148,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph/description/) |Medium|To Do|To Do|To Do|To Do|
 |134|[Gas Station](https://leetcode-cn.com/problems/gas-station/description/) |Medium|To Do|To Do|To Do|To Do|
 |135|[Candy](https://leetcode-cn.com/problems/candy/description/) |Hard|To Do|To Do|To Do|To Do|
-|136|[Single Number](https://leetcode-cn.com/problems/single-number/description/) |Easy|To Do|To Do|To Do|To Do|
+|136|[Single Number](https://leetcode-cn.com/problems/single-number/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/136.%20Single Numbe\136.只出现一次的数字.cpp)|To Do|
 |137|[Single Number II](https://leetcode-cn.com/problems/single-number-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |138|[Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|To Do|To Do|
 |139|[Word Break](https://leetcode-cn.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -183,7 +183,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |179|[Largest Number](https://leetcode-cn.com/problems/largest-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |187|[Repeated DNA Sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|To Do|To Do|
-|189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/189.%20Rotate Arra\189.旋转数组.cpp)|To Do|
+|189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/189.%20Rotate Arra\189. Rotate Array.cpp)|To Do|
 |190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/description/) |Easy|To Do|To Do|To Do|To Do|
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|To Do|
 |198|[House Robber](https://leetcode-cn.com/problems/house-robber/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -205,7 +205,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |214|[Shortest Palindrome](https://leetcode-cn.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/description/) |Medium|To Do|To Do|To Do|To Do|
-|217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/217.%20Contains Duplicat\217.存在重复元素.cpp)|To Do|
+|217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/217.%20Contains Duplicat\217. Contains Duplicate.cpp)|To Do|
 |218|[The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem/description/) |Hard|To Do|To Do|To Do|To Do|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -288,7 +288,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |345|[Reverse Vowels of a String](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|To Do|To Do|To Do|
 |347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|To Do|
 |349|[Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) |Easy|To Do|To Do|To Do|To Do|
-|350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) |Easy|To Do|To Do|To Do|To Do|
+|350|[Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/350.%20Intersection of Two Arrays II\350. Intersection of Two Arrays II.cpp)|To Do|
 |352|[Data Stream as Disjoint Intervals](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/description/) |Hard|To Do|To Do|To Do|To Do|
 |354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes/description/) |Hard|To Do|To Do|To Do|To Do|
 |355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/description/) |Medium|To Do|To Do|To Do|To Do|
