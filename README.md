@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-20 20:20:49, I have solved **5** / **837** problems while **0** are still locked.
+Until 2019-04-22 08:31:02, I have solved **7** / **837** problems while **0** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 5
+3. C++: 7
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -183,7 +183,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |179|[Largest Number](https://leetcode-cn.com/problems/largest-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |187|[Repeated DNA Sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|To Do|To Do|
-|189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/189.%20Rotate Arra\189.旋转数组.cpp)|To Do|
 |190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/description/) |Easy|To Do|To Do|To Do|To Do|
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|To Do|
 |198|[House Robber](https://leetcode-cn.com/problems/house-robber/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -205,7 +205,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |214|[Shortest Palindrome](https://leetcode-cn.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|To Do|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |216|[Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/description/) |Medium|To Do|To Do|To Do|To Do|
-|217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) |Easy|To Do|To Do|To Do|To Do|
+|217|[Contains Duplicate](https://leetcode-cn.com/problems/contains-duplicate/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/217.%20Contains Duplicat\217.存在重复元素.cpp)|To Do|
 |218|[The Skyline Problem](https://leetcode-cn.com/problems/the-skyline-problem/description/) |Hard|To Do|To Do|To Do|To Do|
 |219|[Contains Duplicate II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |220|[Contains Duplicate III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/) |Medium|To Do|To Do|To Do|To Do|
