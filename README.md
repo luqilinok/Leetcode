@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-04-24 10:31:05, I have solved **22** / **842** problems while **0** are still locked.
+Until 2019-04-24 21:49:45, I have solved **29** / **842** problems while **0** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 22
+3. C++: 30
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -31,9 +31,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |016|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode-cn.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|
-|019|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
+|019|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/019.%20Remove Nth Node From End of Lis\19.Remove Nth Node From End of List.cpp)|To Do|
 |020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
-|021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
+|021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/021.%20Merge Two Sorted List\21.Merge Two Sorted Lists.cpp)|To Do|
 |022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -100,7 +100,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |085|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/description/) |Hard|To Do|To Do|To Do|To Do|
 |086|[Partition List](https://leetcode-cn.com/problems/partition-list/description/) |Medium|To Do|To Do|To Do|To Do|
 |087|[Scramble String](https://leetcode-cn.com/problems/scramble-string/description/) |Hard|To Do|To Do|To Do|To Do|
-|088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|
+|088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/088.%20Merge Sorted Arra\88. Merge Sorted Array.cpp)|To Do|
 |089|[Gray Code](https://leetcode-cn.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|To Do|
 |090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |091|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -194,7 +194,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |203|[Remove Linked List Elements](https://leetcode-cn.com/problems/remove-linked-list-elements/description/) |Easy|To Do|To Do|To Do|To Do|
 |204|[Count Primes](https://leetcode-cn.com/problems/count-primes/description/) |Easy|To Do|To Do|To Do|To Do|
 |205|[Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/description/) |Easy|To Do|To Do|To Do|To Do|
-|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/206.%20Reverse Linked Lis\206.Reverse Linked List(2).cpp)|To Do|
 |207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/description/) |Medium|To Do|To Do|To Do|To Do|
 |208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -222,10 +222,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |231|[Power of Two](https://leetcode-cn.com/problems/power-of-two/description/) |Easy|To Do|To Do|To Do|To Do|
 |232|[Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|To Do|To Do|To Do|
 |233|[Number of Digit One](https://leetcode-cn.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|To Do|To Do|
-|234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/234.%20Palindrome Linked Lis\234. Palindrome Linked List.cpp)|To Do|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
-|237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
+|237|[Delete Node in a Linked List](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/237.%20Delete Node in a Linked Lis\237.Delete Node in a Linked List.cpp)|To Do|
 |238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/description/) |Medium|To Do|To Do|To Do|To Do|
 |239|[Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/description/) |Hard|To Do|To Do|To Do|To Do|
 |240|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -240,7 +240,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |273|[Integer to English Words](https://leetcode-cn.com/problems/integer-to-english-words/description/) |Hard|To Do|To Do|To Do|To Do|
 |274|[H-Index](https://leetcode-cn.com/problems/h-index/description/) |Medium|To Do|To Do|To Do|To Do|
 |275|[H-Index II](https://leetcode-cn.com/problems/h-index-ii/description/) |Medium|To Do|To Do|To Do|To Do|
-|278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/description/) |Easy|To Do|To Do|To Do|To Do|
+|278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/278.%20First Bad Versio\278.firstBadVersion.cpp)|To Do|
 |279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/description/) |Medium|To Do|To Do|To Do|To Do|
 |282|[Expression Add Operators](https://leetcode-cn.com/problems/expression-add-operators/description/) |Hard|To Do|To Do|To Do|To Do|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/) |Easy|To Do|To Do|[C++](https://github.com/luqilinok/Leetcode/blob/master/leetcode-algorithms/283.%20Move Zeroe\283.moveZeros.cpp)|To Do|
